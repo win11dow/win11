@@ -3,7 +3,7 @@ body{
 
     margin: 0;
     padding: 0;
-    t
+    
 }
 
 
@@ -44,6 +44,9 @@ border-radius: 20px;
  margin: auto;
  display: flex;
    width: 800px;
+   text-align: center;
+   margin: auto;
+   
 }
 .text2{
 color: black;
@@ -52,7 +55,7 @@ color: black;
 text-align: center;
 
 }
-/* From cssbuttons.io by @adamgiebl */
+
 button {
  background: linear-gradient(-45deg, #3f00b5, #9f69fe, #27c8b7, #3f00b5);
  background-size: 800% 400%;
@@ -97,5 +100,12 @@ width: auto;
 height: 150px;
 background-color:#696969 ;
 
+
+
+}
+.m2{
+
+
+text-align: center;
 
 }
