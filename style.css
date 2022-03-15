@@ -1,37 +1,26 @@
 body{
-
-
     margin: 0;
     padding: 0;
-    
 }
 
 
 .m1{
-
-
 text-align: center;
-
 }
 
 
 a{
-
 text-decoration: none;
-
 }
 
 .text1{
-
 color: black;
   font-family: arial;
   font-size: 25px;
 text-align: center;
-
 }
 
 .line{
-
 width: auto;
 height: 1px;
 background-color: black;
@@ -39,21 +28,17 @@ border-radius: 20px;
 }
 
 .n1{
-
-
  margin: auto;
  display: flex;
-   width: 800px;
+   width: auto;
    text-align: center;
-   margin: auto;
-   
+ 
 }
 .text2{
 color: black;
   font-family: arial;
   font-size: 21px;
 text-align: center;
-
 }
 
 button {
@@ -95,17 +80,34 @@ button:active {
 }
 
 .verch{
-
-width: auto;
+width: 150px;
 height: 150px;
-background-color:#696969 ;
-
-
 
 }
 .m2{
-
-
 text-align: center;
+}
 
+.n3{
+ margin: auto;
+ display: flex;
+   width: auto;
+
+   text-align: center;
+   margin: auto;   
+}
+.padval{
+
+
+
+    width: auto;
+    height: 125px;
+    background-color: #A9A9A9;
+}
+
+.m3{
+text-align: center;
+width: auto;
+height: 69px;
+background-color: #C0C0C0;
 }
